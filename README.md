@@ -80,7 +80,7 @@ Upon trying to stop the production EC2 instance, I encountered an access denied 
 
 ![Image](https://github.com/sumeet15n/security-with-IAM/blob/master/Screenshots/SS1.JPG)
 
-Next, I tried to stop the development EC instace, and I did not encounter any error, as shown in the below screenshot.
+Next, I tried to stop the development EC2 instance, and I did not encounter any error, as shown in the below screenshot.
 
 ![Image](https://github.com/sumeet15n/security-with-IAM/blob/master/Screenshots/SS2.JPG)
 
